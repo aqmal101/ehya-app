@@ -863,7 +863,7 @@ footer > .section2 > img {
   width: 45px;
 }
 
-@media only screen and (min-width: 601px) and (max-width: 900px) {
+@media only screen and (min-width: 601px) and (max-width: 768px) {
   footer > .section2 {
     margin-top: 80px;
   }
